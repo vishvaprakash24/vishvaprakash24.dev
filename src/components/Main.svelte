@@ -20,9 +20,9 @@
     <section id="introPage" class="grid grid-cols-1 lg:grid-cols-2 gap-10 py-8 sm:py-14">
         <div class="flex lg:ml-7 flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10">
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">Hi! I'm <span class="poppins text-violet-400">Vishva Prakash</span> Maddheshiya. <br> Full Stack <span class="poppins text-violet-400">Developer</span></h2>
-            <p class=" text-base sm:text-lg md:text-xl">My <span class="text-violet-400">favorite tech</span> includes JavaScript (NEXT.JS or SvelteKit), TailwindCSS, Node.js + Express.js & PostgreSQL or Firebase/Firestore!</p>
+            <p class=" text-base sm:text-lg md:text-xl">My <span class="text-violet-400">favorite tech</span> includes TailwindCSS, ReactJS, NodeJS + ExpressJS and MongoDB!</p>
 
-            <a href="https://www.linkedin.com/feed/" class="blueShadow overflow-hidden mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer" target="_blank">
+            <a href="https://www.linkedin.com/in/vishva-prakash-maddheshiya/" class="blueShadow overflow-hidden mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer" target="_blank">
                 <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200">        </div>
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </a>      
